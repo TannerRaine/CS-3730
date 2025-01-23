@@ -15,3 +15,5 @@ rainetab[student]:~$ cd CS-3730
 rainetab[student]:~/CS-3730$ cat > README.md
 
 Andy, that should be everything!
+
+git checkout -b activity1
