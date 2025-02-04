@@ -1,0 +1,7 @@
+venv/
+__pyache__/
+*.pyc #compiled python files
+
+git init
+git add .
+git commit -m "Initial commit: flask app, makefile, .gitnore, requirements"
