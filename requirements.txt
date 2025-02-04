@@ -1,7 +1,3 @@
-Hey Andy,
-
-This should be what you need?
-
 # save this as app.py
 from flask import Flask
 
